@@ -1,7 +1,18 @@
+body{
+background-color: lightblue;
+}
+
 .aidaImage{
     height:300px;
     width:300px;
     margin: auto;
-    border: 3px green dotted;
+    border: 3px ;
+    padding: 1.5rem;
     border-radius: 25px;
+
+}
+
+.projectImages{
+    width: 40%;
+    padding: .5rem;
 }
