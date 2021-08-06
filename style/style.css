@@ -1,0 +1,7 @@
+.aidaImage{
+    height:300px;
+    width:300px;
+    margin: auto;
+    border: 3px green dotted;
+    border-radius: 25px;
+}
